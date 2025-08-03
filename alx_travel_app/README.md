@@ -17,5 +17,4 @@ A web application for booking, exploring, and managing travel listings — built
 - **Frontend**: HTML, CSS, Bootstrap (or Tailwind, if used)
 - **Deployment**: (Optional – Heroku, Vercel, etc.)
 
-## 📁 Project Structure
 
